@@ -1,1 +1,1 @@
-Makinf script that creat a Alias
+script to create an Alias
