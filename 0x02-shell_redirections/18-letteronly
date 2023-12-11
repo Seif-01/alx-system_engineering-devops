@@ -1,2 +1,2 @@
 #!/bin/bas
-grep '^[[:alpha:]]' /etc/ssh/sshd_config
+grep -E '^[[:upper:]]|^[[:lower:]]' /etc/ssh/sshd_config
