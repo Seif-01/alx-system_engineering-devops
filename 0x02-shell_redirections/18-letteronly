@@ -1,0 +1,2 @@
+#!/bin/bas
+greb '^[[:upper:]]\|^[[:lower:]]' /etc/ssh/sshd_config
