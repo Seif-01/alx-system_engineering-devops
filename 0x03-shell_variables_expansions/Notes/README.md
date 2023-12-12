@@ -1,1 +1,5 @@
-
+![0x03 Shell, init files, variables and expansions_page-0001](https://github.com/Seif-01/alx-system_engineering-devops/assets/117954932/f036aa25-3df3-48e9-b7f0-97127ab6bb7c)
+![0x03 Shell, init files, variables and expansions_page-0002](https://github.com/Seif-01/alx-system_engineering-devops/assets/117954932/63f6716b-e7de-4ee0-9c2c-59752310b351)
+![0x03 Shell, init files, variables and expansions_page-0003](https://github.com/Seif-01/alx-system_engineering-devops/assets/117954932/ed45cce0-fc07-497b-a4ce-65b9f3e6e9f8)
+![0x03 Shell, init files, variables and expansions_page-0004](https://github.com/Seif-01/alx-system_engineering-devops/assets/117954932/e46aad97-9012-420b-a672-4894eab39fdb)
+![0x03 Shell, init files, variables and expansions_page-0005](https://github.com/Seif-01/alx-system_engineering-devops/assets/117954932/ccdb6ae5-07cf-4611-bcc6-103e4cb9f081)
