@@ -1,0 +1,4 @@
+BEST=School
+# Creates a new local variable 'BEST' with the value 'School'.
+# Note: Demonstrates creating a variable with a specific value within a script.
+

@@ -1,0 +1,4 @@
+echo $(( $POWER / $DIVIDE ))
+# Divides the value stored in 'POWER' by the value stored in 'DIVIDE'.
+# Note: Uses the arithmetic expansion to perform division.
+

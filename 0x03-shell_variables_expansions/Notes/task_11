@@ -1,0 +1,4 @@
+echo $(( $BREATH ** $LOVE ))
+# Raises the value of 'BREATH' to the power of 'LOVE'.
+# Note: Utilizes arithmetic expansion for exponentiation.
+

@@ -1,0 +1,4 @@
+printf "%x\n" $DECIMAL
+# Converts the decimal number stored in 'DECIMAL' to hexadecimal.
+# Note: Uses 'printf' to convert the decimal number to its hexadecimal representation.
+

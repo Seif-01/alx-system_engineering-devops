@@ -1,0 +1,4 @@
+set
+# Lists all local variables, environment variables, and functions.
+# Note: Shows all variables and functions currently active in the shell session.
+

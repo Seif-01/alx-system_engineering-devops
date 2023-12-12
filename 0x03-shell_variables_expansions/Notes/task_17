@@ -1,0 +1,4 @@
+awk 'NR%2==1'
+# Prints every alternate line from the input starting with the first line.
+# Note: Uses 'awk' to filter and print odd-numbered lines from the input.
+

@@ -1,0 +1,4 @@
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
+# Performs the ROT13 encryption/decryption on text.
+# Note: Transforms characters by shifting them 13 positions in the alphabet.
+

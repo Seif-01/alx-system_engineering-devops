@@ -1,0 +1,4 @@
+# Generates combinations of two letters from 'a' to 'z', excluding 'oo'.
+# Function: Lists pairs of letters in alphabetical order, excluding 'oo'.
+# Note: Output includes pairs 'aa' through 'zz' except for 'oo'.
+

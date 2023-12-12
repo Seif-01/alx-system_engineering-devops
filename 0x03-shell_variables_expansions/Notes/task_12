@@ -1,0 +1,4 @@
+echo $((2#10100111001))
+# Converts a binary number (stored in 'BINARY') to its decimal equivalent.
+# Note: The '2#' prefix indicates base 2 (binary) to base 10 (decimal) conversion.
+

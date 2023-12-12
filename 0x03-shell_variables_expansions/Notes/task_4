@@ -1,0 +1,4 @@
+echo $PATH | tr ':' '\n' | wc -l
+# Counts the number of directories listed in the PATH variable.
+# Note: Uses 'tr' to split directories by ':' and 'wc -l' to count the lines (representing directories).
+

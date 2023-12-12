@@ -1,0 +1,4 @@
+export PATH=$PATH:/action
+# Extends the PATH environment variable to include the directory '/action'.
+# Note: Ensure '/action' contains executable files to be accessible system-wide.
+

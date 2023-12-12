@@ -1,0 +1,4 @@
+printf "%.2f\n" $NUM
+# Prints the value of 'NUM' with two decimal places.
+# Note: Uses 'printf' to format the number with two decimal places.
+

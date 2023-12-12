@@ -1,0 +1,4 @@
+echo 'hello $USER'
+# Prints a greeting message, 'hello', followed by the current Linux user's name.
+# Note: Utilizes the environment variable $USER to dynamically greet the user.
+
