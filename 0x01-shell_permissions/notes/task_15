@@ -1,0 +1,3 @@
+# 14-change_owner_and_group.txt
+Change the owner to 'vincent' and the group owner to 'staff' for all files and directories: sudo chown -R vincent:staff *
+
