@@ -1,0 +1,3 @@
+# 12-directory_permissions.txt
+Create a directory called 'my_dir' with permissions 751: mkdir my_dir && chmod 751 my_dir
+
