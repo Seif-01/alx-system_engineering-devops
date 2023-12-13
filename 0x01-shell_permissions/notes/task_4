@@ -1,0 +1,3 @@
+# 3-new_owner.txt
+Change the owner of the file 'hello' to the user betty: sudo chown betty hello
+
