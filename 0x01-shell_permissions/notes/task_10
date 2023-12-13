@@ -1,0 +1,3 @@
+# 9-John_Doe.txt
+Set the mode of the file 'hello' to "-rwxr-x-wx": chmod 751 hello
+
