@@ -1,0 +1,3 @@
+# 11-directories_permissions.txt
+Add execute permission to all subdirectories for the owner, group owner, and all other users: find . -type d -exec chmod 711 {} +
+
