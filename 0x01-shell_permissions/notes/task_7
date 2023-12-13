@@ -1,0 +1,3 @@
+# 6-multiple_permissions.txt
+Add execute permission to the owner and group owner, and read permission to other users, to the file 'hello': chmod ug+x,o+r hello
+
