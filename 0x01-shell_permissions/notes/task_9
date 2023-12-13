@@ -1,0 +1,3 @@
+# 8-James_Bond.txt
+Set permissions for the file 'hello' as Owner: no permission at all, Group: no permission at all, Other users: all permissions - chmod 007 hello
+
