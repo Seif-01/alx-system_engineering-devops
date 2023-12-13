@@ -1,0 +1,35 @@
+# Changes file permissions
+chmod - Change permissions: -u, -g, -o for user, group, others. +x adds execution permission.
+
+# Executes commands with elevated privileges
+sudo - Execute with higher permissions.
+
+# Switches user
+su - Switch user: su username or su for root.
+
+# Changes ownership of files/directories
+chown - Change ownership: -R for recursive change. Example: chown user:group filename.
+
+# Changes group ownership of files/directories
+chgrp - Change group ownership. Example: chgrp groupname filename.
+
+# Displays user identity
+id - Display user ID: -u, -g, -G for user ID, group ID, supplementary groups.
+
+# Shows groups a user belongs to
+groups - Display user's groups.
+
+# Displays the current username
+whoami - Display current user.
+
+# Adds a user interactively
+adduser - Interactive user addition.
+
+# Adds a user non-interactively
+useradd - Non-interactive user addition. Use with caution and specify necessary parameters.
+
+# Creates a new group
+addgroup - Create new group.
+
+# Additional options modify settings or permissions (-u, -p, +x, etc.)
+
