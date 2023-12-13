@@ -1,0 +1,3 @@
+# 13-change_group.txt
+Change the group owner to 'school' for the file 'hello': sudo chgrp school hello
+
