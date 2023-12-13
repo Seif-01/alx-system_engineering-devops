@@ -1,0 +1,3 @@
+# 7-everybody.txt
+Add execution permission to the owner, the group owner, and other users, to the file 'hello': chmod a+x hello
+
