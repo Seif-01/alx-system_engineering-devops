@@ -1,0 +1,44 @@
+# Command Reference
+
+## Navigation:
+- `cd`: Change directory.
+
+## Listing:
+- `ls`: List directory contents.
+
+## Print Working Directory:
+- `pwd`: Print current working directory.
+
+## File Viewing:
+- `less`: View files page by page.
+
+## File Information:
+- `file`: Determine file type.
+
+## Linking:
+- `ln`: Create links between files.
+
+## Copy:
+- `cp`: Copy files or directories.
+
+## Move:
+- `mv`: Move or rename files or directories.
+
+## Remove:
+- `rm`: Remove files or directories.
+
+## Directory Creation:
+- `mkdir`: Create directories.
+
+## Command Information:
+- `type`: Display command type.
+
+## Locate Executable:
+- `which`: Locate executable file.
+
+## Help:
+- `help`: Get help information for shell built-ins.
+
+## Manual Pages:
+- `man`: Access manual pages for commands.
+
